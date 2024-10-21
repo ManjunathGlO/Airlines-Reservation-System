@@ -36,6 +36,6 @@ If you want to contact me, you can reach me through below handles.
 ## License
 
 - This project is licensed under the MIT License. See the LICENSE file for more details.
-
-  ## Show your support
-  Give a ⭐️ if you like this project!
+  
+## Show your support
+Give a ⭐️ if you like this project!
