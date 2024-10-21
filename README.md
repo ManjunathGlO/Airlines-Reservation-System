@@ -22,6 +22,17 @@ The Airlines Reservation System is a comprehensive database management project d
 
 - Contributions are welcome! Feel free to open issues or submit pull requests for improvements or additional features.
 
+
+
+## Contact
+
+If you want to contact me, you can reach me through below handles.
+
+[![linkedin](https://img.shields.io/badge/Manju_GL-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manjunathgl/)
+[![Twitter](https://img.shields.io/badge/Manju_GL-20232A?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/ManjunathGlO)
+
+  
+
 ### License
 
 - This project is licensed under the MIT License. See the LICENSE file for more details.
