@@ -1,5 +1,5 @@
 # Airlines-Reservation-System
-The Airlines Reservation System is a comprehensive database management project designed to facilitate and streamline the process of booking airline tickets. This project employs SQL to manage data related to flights, customers, reservations, and payments, ensuring efficient retrieval and manipulation of information.
+The Airlines Reservation System is a comprehensive database management project designed to facilitate and streamline the process of booking airline tickets. This project employs SQL to manage data related to flights, customers, reservations, and payments, ensuring efficient retrieval and manipulation of information. <hr>
 
 ## Features
 - Flight Management: Add, update, and delete flight information, including flight numbers, schedules, and routes.
@@ -21,7 +21,7 @@ The Airlines Reservation System is a comprehensive database management project d
 ## Contributing
 
 - Contributions are welcome! Feel free to open issues or submit pull requests for improvements or additional features.
-<hr>
+
 ### License
 
 - This project is licensed under the MIT License. See the LICENSE file for more details.
