@@ -1,6 +1,12 @@
-<h1 align="center">🚀🚦Airlines-Reservation-System🚦🚀</h1>
+<h1 align="center">
+ <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="75">&nbsp;🚀🚦Airlines-Reservation-System🚦🚀
+ <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="75">&nbsp;</h1>
+
+   
 
 ![banner-7](https://github.com/user-attachments/assets/acdb1fec-661d-4f9b-b411-e136947578ea)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1100">
+<br><br>
 
 The Airlines Reservation System is a comprehensive database management project designed to facilitate and streamline the process of booking airline tickets. 
 This project employs SQL to manage data related to flights, customers, reservations, and payments, ensuring efficient retrieval and manipulation of information. 
