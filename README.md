@@ -12,6 +12,7 @@ The Airlines Reservation System is a comprehensive database management project d
 This project employs SQL to manage data related to flights, customers, reservations, and payments, ensuring efficient retrieval and manipulation of information. 
 
 ## Features 🔑🔑
+
 - Flight Management: Add, update, and delete flight information, including flight numbers, schedules, and routes.
 - Customer Management: Store and manage customer details, including personal information and travel preferences.
 - Reservation System: Enable users to search for available flights, make reservations, and view their booking history.
